@@ -40,7 +40,7 @@
 ---
 
 ## 📌 精选项目
-请见Repository。
+请见Repositories。
 <!--
 ### [项目名称](项目链接)
 ▶️ 技术栈：`Python` `FastAPI` `MongoDB`  
