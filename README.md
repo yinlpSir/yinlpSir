@@ -56,6 +56,8 @@
 [Apifox](https://apifox.com/)
 
 [Spring](https://spring.io/)
+[Gitee](https://gitee.com/)
+[Vue.js](https://cn.vuejs.org/)
 [洛谷](https://www.luogu.com.cn/)
 [力扣](https://leetcode.cn/)
 [CSDN](https://www.csdn.net/)
